@@ -1,0 +1,25 @@
+article {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    height: 400px;
+    width: 300px;
+    gap: 15px;
+}
+
+img {
+    width: 80px;
+}
+
+h2 {
+    font-family: "Big Shoulders Display", sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+p {
+    font-size: 15px;
+    color: var(--Transparentwhite);
+    margin: 5px;
+    width: 200px;
+}
